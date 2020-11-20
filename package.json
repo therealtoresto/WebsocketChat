@@ -1,0 +1,27 @@
+{
+  "name": "websocketchat",
+  "version": "0.0.1",
+  "description": "Websocket Chat Example",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealtoresto/WebsocketChat.git"
+  },
+  "keywords": [
+    "websocket",
+    "chat"
+  ],
+  "author": "therealtoresto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therealtoresto/WebsocketChat/issues"
+  },
+  "homepage": "https://github.com/therealtoresto/WebsocketChat#readme",
+  "dependencies": {
+    "websocket": "^1.0.32"
+  },
+  "readme": "README.md"
+}
